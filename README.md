@@ -1,2 +1,7 @@
 # conflict-exercise
-Este es un cambio en la main branch
+<<<<<<< HEAD
+
+=======
+
+Este es un cambio en la feature branch
+>>>>>>> feature-branch
